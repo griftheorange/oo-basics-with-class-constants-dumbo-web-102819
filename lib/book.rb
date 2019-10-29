@@ -12,5 +12,8 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
 
+  def genre=(book_genre)
+    @
+  end
   
 end
